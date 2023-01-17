@@ -9,7 +9,8 @@
     }
 
     header img {
-        margin: 10px;
+        display: block;
+        margin: 10px auto;
     }
 
     header i#burguer {
@@ -24,10 +25,8 @@
 
     header nav#menu {
         padding: 0;
-    }
-
-    header nav#menu {
         display: block;
+
     }
 
     header nav#menu li{

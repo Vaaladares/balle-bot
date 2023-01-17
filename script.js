@@ -1,15 +1,15 @@
 function clickMenu() {
-    if (menu.style.display == 'none')
-        menu.style.display = 'block'
-    else (
+    if (menu.style.display == 'block')
         menu.style.display = 'none'
+    else (
+        menu.style.display = 'block'
     ) 
 }
 
 function mudouTamanho() {
     if (innerWidth >= 770)
-        itens.style.display = 'block'
+        menu.style.display = 'block'
     else {
-        itens.style.display = "none"
+        menu.style.display = "none"
     }
 }

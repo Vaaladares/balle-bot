@@ -89,6 +89,7 @@ main {
     cursor: pointer;
     background-color: #ECD6C4;
     font-family: 'Sarala', sans-serif;
+    color: black;
 }
 
 .section-principal-conteudo button:hover {
