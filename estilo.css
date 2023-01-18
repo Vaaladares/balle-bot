@@ -95,6 +95,7 @@ main {
 .section-principal-conteudo button:hover {
     background-color: #8E5D52;
     color: white;
+    transition: 0.5s;
 }
 
 .section-principal-imagem img{

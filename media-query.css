@@ -25,8 +25,6 @@
 
     header nav#menu {
         padding: 0;
-        display: block;
-
     }
 
     header nav#menu li{
@@ -39,6 +37,7 @@
 
     header nav#menu li:hover {
         background-color: #8e5d52;
+        transition: 0.5s;
     }
 
     header nav#menu a {
